@@ -11,47 +11,50 @@ Given a balance scale and nine gold bars of identical appearance, one bar is fak
 Objective:
 
 Create a test automation project using Java and Maven through Eclipse IDE to automate the process of identifying the fake gold bar by comparing weights of different sets of gold bars.
-Prerequisites
 
-  Java Development Kit Version 17.0.2 or above
+Prerequisites:
+
+  - Java Development Kit Version 17.0.2 or above
   
-  Apache Maven 3.8.8 or above
+  - Apache Maven 3.8.8 or above
   
-  Eclipse IDE (option 2)
+  - Eclipse IDE (option 2)
   
-  Google Chrome Versión 118.0.5993.89
+  - Google Chrome Versión 118.0.5993.89
   
-  GitHub account
+  - GitHub account
 
 Setup
 
-  Download the ZIP file from the GitHub repository temokssl/fetch at fetch_branch (github.com)
+  - Download the ZIP file from the GitHub repository temokssl/fetch at fetch_branch (github.com)
   
-  Unzip the folder to your desired location.
+  - Unzip the folder to your desired location.
 
 Option 1 (Using cmd):
 
-  Open the command prompt and navigate to the root location.
+  - Open the command prompt and navigate to the root location.
   
-  Run the following command: mvn test
+  - Run the following command: mvn test
   
-  The test should run and provide results
+  - The test should run and provide results
 
 Option 2 (Using Eclipse IDE):
 
-  Open Eclipse.
+  - Open Eclipse.
   
-  Go to "Help" > "Eclipse Marketplace" and install "TestNG for Eclipse."
+  - Go to "Help" > "Eclipse Marketplace" and install "TestNG for Eclipse."
   
-  Select "File" > "Import."
+  - Select "File" > "Import."
   
-  Choose "Existing Maven Projects."
+  - Choose "Existing Maven Projects."
   
-  Browse to the project directory where you saved it.
+  - Browse to the project directory where you saved it.
   
-  Click "Finish" to import the project.
+  - Click "Finish" to import the project.
   
-  Right-click on the project and select "Run As" > "TestNG Test."
+  - Right-click on the project and select "Run As" > "TestNG Test."
+
+  - The tests should run and provide results.
   
   The tests should run and provide results.
 
