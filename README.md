@@ -26,7 +26,7 @@ Prerequisites:
 
 Setup
 
-  - Download the ZIP file from the GitHub repository temokssl/fetch at fetch_branch (github.com)
+  - Download the ZIP file from the GitHub repository [temokssl/fetch at fetch_branch (github.com)](https://github.com/temokssl/fetch/tree/fetch_branch)
   
   - Unzip the folder to your desired location.
 
