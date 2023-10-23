@@ -7,6 +7,7 @@ Date: 19/10/23
 Description of the case:
 
 Given a balance scale and nine gold bars of identical appearance, one bar is fake and weighs less than the others. The objective is to find the fake gold bar using only the bars and the balance scale.
+
 Objective:
 
 Create a test automation project using Java and Maven through Eclipse IDE to automate the process of identifying the fake gold bar by comparing weights of different sets of gold bars.
