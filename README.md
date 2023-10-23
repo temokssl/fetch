@@ -55,8 +55,6 @@ Option 2 (Using Eclipse IDE):
   - Right-click on the project and select "Run As" > "TestNG Test."
 
   - The tests should run and provide results.
-  
-  The tests should run and provide results.
 
 Please find attached a PDF file for an illustrative version
 [Fetch Coding Exercise- SDET Balance Scale Game.pdf](https://github.com/temokssl/fetch/files/13066499/Fetch.Coding.Exercise-.SDET.Balance.Scale.Game.pdf)
